@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/CMakeFiles/BluetoohToPhoneAndAdc"
+		},
+		{
+			"file" : "C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/CMakeFiles/BluetoohToPhoneAndAdc.rule"
+		},
+		{
+			"file" : "C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/CMakeFiles/BluetoohToPhoneAndAdc-complete.rule"
+		},
+		{
+			"file" : "C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-build.rule"
+		},
+		{
+			"file" : "C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-configure.rule"
+		},
+		{
+			"file" : "C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-download.rule"
+		},
+		{
+			"file" : "C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-install.rule"
+		},
+		{
+			"file" : "C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-patch.rule"
+		},
+		{
+			"file" : "C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BluetoohToPhoneAndAdc"
+		],
+		"name" : "BluetoohToPhoneAndAdc"
+	}
+}

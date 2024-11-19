@@ -1,0 +1,13 @@
+# Target labels
+ BluetoohToPhoneAndAdc
+# Source files and their labels
+C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/CMakeFiles/BluetoohToPhoneAndAdc
+C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/CMakeFiles/BluetoohToPhoneAndAdc.rule
+C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/CMakeFiles/BluetoohToPhoneAndAdc-complete.rule
+C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-build.rule
+C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-configure.rule
+C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-download.rule
+C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-install.rule
+C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-mkdir.rule
+C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-patch.rule
+C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/_sysbuild/sysbuild/images/BluetoohToPhoneAndAdc-prefix/src/BluetoohToPhoneAndAdc-stamp/BluetoohToPhoneAndAdc-update.rule

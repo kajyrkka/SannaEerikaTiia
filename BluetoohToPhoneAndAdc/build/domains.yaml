@@ -1,0 +1,7 @@
+default: BluetoohToPhoneAndAdc
+build_dir: C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build
+domains:
+  - name: BluetoohToPhoneAndAdc
+    build_dir: C:/Users/kajyrkka/NordicSW/BluetoohToPhoneAndAdc/build/BluetoohToPhoneAndAdc
+flash_order:
+  - BluetoohToPhoneAndAdc
